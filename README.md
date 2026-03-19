@@ -76,7 +76,7 @@ Durante o desenvolvimento deste projeto foram aplicados os seguintes conceitos:
 
 1. Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/jogo-da-velha-java-swing.git
+git clone https://github.com/Matheus5404/jogo-da-velha-java-swing.git
 
 2. Abra o projeto no NetBeans
 
